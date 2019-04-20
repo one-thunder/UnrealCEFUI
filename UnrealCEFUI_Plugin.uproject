@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A4486396-4EB2-160F-5560-35A5A345419A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealCEFUI_Plugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
