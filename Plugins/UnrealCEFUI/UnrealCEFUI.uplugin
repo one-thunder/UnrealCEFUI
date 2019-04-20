@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealCEFUI",
+	"Description": "Unreal Engine UI using Chromium Embedded Framework",
+	"Category": "UI",
+	"CreatedBy": "Alexei Gaidulean",
+	"CreatedByURL": "http://thunderstorm.pro",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealCEFUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
